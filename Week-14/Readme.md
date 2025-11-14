@@ -1,0 +1,1 @@
+This is the Week were NEXT.js has been taught completely.
